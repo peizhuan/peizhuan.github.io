@@ -8,7 +8,4 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/
-     
-  - title: "Contact"
-    url: /contact/   
+    url: /teaching/ 
