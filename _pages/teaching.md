@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <h2>Cornell University</h2>
-* _Labor Markets and Public Polic_y (undergraduate), 2016-2019.
+* _Labor Markets and Public Policy_ (undergraduate), 2016-2019.
 * _Empirical Strategies for Policy Research II_ (Ph.D.), 2015, 2017-2019.
 * _Honors Thesis Advising_ (undergraduate), 2017-2019.
 
