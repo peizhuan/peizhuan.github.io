@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "C.V."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+Current Positions
+======
+* Assistant Professor, Department of Policy Analysis and Management, College of Human Ecology, Cornell University, 2015-Present
+* Research Affiliate, IZA, 2016-Present
+
+Other Positions
+======
+* Visiting Assistant Professor, Department of Economics, Princeton University, 2019-2020
+* Assistant Professor of Economics, Brandeis University, 2013-2015
+* Postdoc Economist, W.E. Upjohn Institute for Employment Research, 2012-2013
+  
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Princeton University, Ph.D. in Economics, 2012
+* Carleton College, B.A. in Mathematics (with Distinction), _summa cum laude_, 2006
