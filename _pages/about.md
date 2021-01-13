@@ -16,7 +16,7 @@ Contact Information
 ======
 
 <br>
-Dept. of Policy Analysis and Management\
-Cornell University\
-Ithaca, NY 14853, USA\
+Dept. of Policy Analysis and Management<br>
+Cornell University<br>
+Ithaca, NY 14853, USA<br>
 Email:  zhuan.pei (at) cornell.edu
