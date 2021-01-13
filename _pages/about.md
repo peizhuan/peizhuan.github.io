@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<br>
 I am an assistant professor in the Department of Policy Analysis and Management of the College of Human Ecology at Cornell University. My research interests are in Labor Economics, Applied Microeconometrics, and Public Policy.
 <br>
 <br>
@@ -14,6 +15,7 @@ I am an assistant professor in the Department of Policy Analysis and Management 
 Contact Information 
 ======
 
+<br>
 Dept. of Policy Analysis and Management\
 Cornell University\
 Ithaca, NY 14853, USA\
