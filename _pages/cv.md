@@ -11,7 +11,7 @@ redirect_from:
 PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated January 15, 2021)<br>
 <br>
 
-Abbreciated C.V. (sans research and teaching)
+Abbreciated C.V. sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"}
 ======
 
 Current Positions
