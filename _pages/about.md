@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zhuan Pei's Academic Website"
+title: "Welcome to Zhuan Pei's Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
