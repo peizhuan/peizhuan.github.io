@@ -31,7 +31,7 @@ Programs and data are posted at: [https://www.aeaweb.org/articles?id=10.1257/pol
 <br>
 <br>
 <h3>"Inference on Causal Effects in a Generalized Regression Kink Design": Card, Lee, Pei, Weber (2015)</h3>
-`altrdrobust`: The Stata .ado and .mo files used in the paper are [here](https://peizhuan.github.io/program_files/rkd ado files.zip). Note that kconst.ado, kweight.mo, and regconst.mo come with the 2014 version of the Stata package --rdrobust-- by Sebastian Calonico, Matias Cattaneo and Rocío Titiunik. Please put the .ado and .mo files under your Stata ado directory (I place altrdrobust.ado under c:\ado\plus\a, kweight.mo under c:\ado\plus\k, etc). Please see [this do file](https://peizhuan.github.io/program_files/altrdrobust implementation examples.do) for examples of using the estimation commands.
+`altrdrobust`: The Stata .ado and .mo files used in the paper are [here](https://peizhuan.github.io/program_files/rkd ado files.zip). Note that kconst.ado, kweight.mo, and regconst.mo come with the 2014 version of the Stata package `rdrobust` by Sebastian Calonico, Matias Cattaneo and Rocío Titiunik. Please put the .ado and .mo files under your Stata ado directory (I place `altrdrobust.ado` under `c:\ado\plus\a`, `kweight.mo` under `c:\ado\plus\k`, etc). Please see [this do file](https://peizhuan.github.io/program_files/altrdrobust implementation examples.do) for examples of using the estimation commands.
 <br>
 <br>
 <h3>"The Effect of Unemployment Benefits on the Duration of Unemployment: New Evidence from a Regression Kink Design in Missouri, 2003-2013": Card, Johnston, Leung, Mas, Pei (2015)</h3>
