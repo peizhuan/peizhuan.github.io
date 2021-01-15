@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "C.V."
+title: "Abbreviated C.V."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){target:"_blank"}. (Updated January 15, 2021)<br>
+<br>
 
 Current Positions
 ======
