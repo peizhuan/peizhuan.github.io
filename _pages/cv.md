@@ -55,11 +55,10 @@ Abbreciated C.V., sans [Research](https://peizhuan.github.io/research/){:target=
 Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, Econometrics Journal, Economic Inquiry, Economic Journal, Journal of Business and Economic Statistics, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Oxford Bulletin of Economics and Statistics, PNAS, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal
 
 <h2>University Services</h2>
-* Member of Economics Ph.D. admissions committee, Cornell University, 2017-2019, 2021 
+* Member of Economics Ph.D. admissions committee, Cornell University, 2017-2019, 2021
 * Member of Economics Ph.D. placement committee, Cornell University, 2020-2021
 * Co-organizer of method mini-course, Cornell University, 2016-2020
 * Co-organizer of PAM seminar series, Cornell University, 2017-2019
 * Member of faculty recruiting committee, Cornell University, 2015
 * Co-organizer of economics seminar series, Brandeis University, 2014-2015
-
 * Social co-chair (2007-08) and Treasurer (2008-09), Graduate Economics Club, Princeton University
