@@ -22,5 +22,5 @@ author_profile: true
 * Assistant Instructor, _Junior Independent Work_, Professor Alex Mas and Professor Andrew Shephard, 2011-2012.
 * Assistant Instructor, _Econometrics: A Mathematical Approach_, Professor Andriy Norets, 2010.
 * Assistant Instructor, _Junior Independent Work_, Professor Alex Mas, 2008-2009. 
-* Assistant Instructor, _Law and Economic_s, Professor Thomas Leonard, 2008.
+* Assistant Instructor, _Law and Economics_, Professor Thomas Leonard, 2008.
 * Economics/Statistics Tutor, _Woodrow Wilson School Junior Summer Institute_, 2008-2009.
