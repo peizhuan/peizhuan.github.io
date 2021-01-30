@@ -31,4 +31,4 @@ The Effect of Unemployment Benefits on the Duration of Unemployment Insurance Re
 <br>
 Arecibo Multi-Epoch HI Absorption Measurements Against Pulsars: Tiny-Scale Atomic Structure, with S. Stanimirović, J. M. Weisberg, K. Tuttle, and J. T. Green, ___Astrophysical Journal___, 720:415-434, September 2010.<br>
 <br>
-[Health Care: Time for a Check Up](https://peizhuan.github.io/papers/healthcare.pdf){:target="_blank"}, (Not Peer-reviewed) with Gabriel Wildau and Arthur Kroeber, ___China Economic Quarterly___, Q3 2007.
+Health Care: Time for a Check Up, (Not Peer-reviewed) with Gabriel Wildau and Arthur Kroeber, ___China Economic Quarterly___, Q3 2007.
