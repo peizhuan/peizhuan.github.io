@@ -52,7 +52,7 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * 2011: Princeton University, Upjohn Institute for Employment Research
 
 <h2>Refereeing</h2>
-<li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, Econometrics Journal, Economic Inquiry, Economic Journal, Journal of Business and Economic Statistics, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Oxford Bulletin of Economics and Statistics, PNAS, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li>
+<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, Econometrics Journal, Economic Inquiry, Economic Journal, Journal of Business and Economic Statistics, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Oxford Bulletin of Economics and Statistics, PNAS, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
 
 <h2>University Services</h2>
 * Member of Economics Ph.D. admissions committee, Cornell University, 2017-2019, 2021
