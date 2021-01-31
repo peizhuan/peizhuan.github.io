@@ -15,7 +15,7 @@ author_profile: true
 <h2>Work in Progress</h2>
 The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments, with Hilary Hoynes, Pauline Leung, Jordan Matsudaira, Cynthia Miller, and Mark van Dok.<br>
 <h2>Publications</h2>
-Are Sufficient Statistics Necessary? Nonparametric Measurement of Deadweight Loss in Unemployment Insurance, with David S. Lee, Pauline Leung, Chris O'Leary, and Simon Quach, ___Journal of Labor Economics___, forthcoming. Working paper version: [NBER Working Paper #25574](https://peizhuan.github.io/papers/sufficient_stats_nber_25574-updated.pdf){:target="_blank"}<br>
+Are Sufficient Statistics Necessary? Nonparametric Measurement of Deadweight Loss in Unemployment Insurance, with David S. Lee, Pauline Leung, Chris O'Leary, and Simon Quach, ___Journal of Labor Economics___, accepted. Working paper version: [NBER Working Paper #25574](https://peizhuan.github.io/papers/sufficient_stats_nber_25574-updated.pdf){:target="_blank"}<br>
 <br>
 Poorly Measured Confounders are More Useful on the Left Than on the Right, with Jörn-Steffen Pischke, and Hannes Schwandt, ___Journal of Business and Economic Statistics___, 37(2), 205-216, April 2019. Working paper version: [NBER Working Paper #23232](https://peizhuan.github.io/papers/Pei_Pischke_Schwandt_Confounders_Mar_2017_NBER.pdf){:target="_blank"}.<br>
 <br>
