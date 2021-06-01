@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated April 16, 2021)<br>
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated June 1, 2021)<br>
 <br>
 
 Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"})
@@ -39,7 +39,7 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * Richard A. Lester Fellowship for Industrial Relations, Princeton University, 2009-2010
 
 <h2>Seminar/Conference Presentations</h2>
-* 2021: SWUFE, SOLE (scheduled)
+* 2021: SWUFE, SOLE, IAAE (scheduled)
 * 2020: Jinan IESR, [Online Causal Inference Seminar](https://sites.google.com/view/ocis/){:target="_blank"} (invited discussant; seminar video recording [here](https://www.youtube.com/watch?v=M30Mw4MYLWM){:target="_blank"}, and discussion starts [here](https://youtu.be/M30Mw4MYLWM?t=2942){:target="_blank"}), APPAM
 * 2019: Cornell University, UC Irvine, Econometric Society Asia/China/European Meetings, IZA/SOLE Transatlantic Conference, NBER Summer Institute, Princeton University QSS Colloquium, APPAM, Princeton Labor-Econometrics Seminar, AASLE
 * 2018: CIRANO-CIREQ Applied Economics Conference, UC Davis, IZA Workshop: Economics of Education, APPAM, NTA conference, Central European University, Northwestern University
