@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am an assistant professor in the Department of Policy Analysis and Management of the College of Human Ecology at Cornell University. My research interests are in Labor Economics, Applied Microeconometrics, and Public Policy.
+I am an assistant professor in the Department of Economics and the Brooks School of Public Policy at Cornell University. My research interests are in Labor Economics, Applied Microeconometrics, and Public Policy.
 <br>
 <br>
 
@@ -16,7 +16,7 @@ Contact Information
 ======
 
 <br>
-Dept. of Policy Analysis and Management<br>
+Jeb E. Brooks School of Public Policy<br>
 Cornell University<br>
 Ithaca, NY 14853, USA<br>
 Email:  zhuan(dot)pei(at)cornell(dot)edu
