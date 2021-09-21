@@ -16,7 +16,7 @@ Contact Information
 ======
 
 <br>
-Jeb E. Brooks School of Public Policy<br>
+MVR Hall<br>
 Cornell University<br>
 Ithaca, NY 14853, USA<br>
 Email:  zhuan(dot)pei(at)cornell(dot)edu
