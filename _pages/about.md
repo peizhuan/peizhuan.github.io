@@ -16,7 +16,7 @@ Contact Information
 ======
 
 <br>
-MVR Hall<br>
+Martha Van Rensselaer Hall<br>
 Cornell University<br>
 Ithaca, NY 14853, USA<br>
 Email:  zhuan(dot)pei(at)cornell(dot)edu
