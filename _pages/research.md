@@ -7,9 +7,10 @@ author_profile: true
 
 <h2>Working Papers</h2>
 
+[Visual Inference and Graphical Representation in Regression Discontinuity Designs](https://arxiv.org/pdf/2112.03096.pdf){:target="_blank"}, with Christina Korting, Carl Lieberman, Jordan Matsudaira, and Yi Shen, arXiv:2112.03096. Previous version: [Princeton University Industrial Relations Section Working Paper #638](https://peizhuan.github.io/papers/rd_graph-2020-02-25_WP.pdf){:target="_blank"}.<br>
+
 [Further Education during Unemployment](https://peizhuan.github.io/papers/opportunity_may_2020_wp.pdf){:target="_blank"}, with Pauline Leung, Princeton University Industrial Relations Section Working Paper #642.<br>
 <br>
-[Visual Inference and Graphical Representation in Regression Discontinuity Designs](https://peizhuan.github.io/papers/rd_graph-2020-02-25_WP.pdf){:target="_blank"}, with Christina Korting, Carl Lieberman, Jordan Matsudaira, and Yi Shen, Princeton University Industrial Relations Section Working Paper #638.<br>
 
 <h2>Work in Progress</h2>
 The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments, with Amanda Eng, Hilary Hoynes, Pauline Leung, Jordan Matsudaira, Cynthia Miller, and Mark van Dok.<br>
