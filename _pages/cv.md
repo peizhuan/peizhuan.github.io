@@ -31,11 +31,11 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 
 <h2>Grants, Honors and Awards</h2>
 * PI, "Effects of Work and Financial Assistance Policies on Child Outcomes: Long-Term Evidence from Welfare Reform Experiments," _William T. Grant Foundation_, with Hilary Hoynes (co-PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $544,312, 2021-2024
-* co-PI, "The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments," _Laura and John Arnold Foundation_, with Hilary Hoynes (PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $348,605, 2020-2023
+* Co-PI, "The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments," _Laura and John Arnold Foundation_, with Hilary Hoynes (PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $348,605, 2020-2023
 * PI, "Graphical Presentation in Regression Discontinuity Designs," _Cornell University Institute of Social Sciences Small Grant_, with Christina Korting (co-PI) and Yi Shen (co-PI), $10,000, 2019-2021
 * [Institute of Social Sciences Faculty Fellow](http://socialsciences.cornell.edu/fellows/){:target="_blank"}, Cornell University, 2018-2019
-* co-PI, "The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Long-Term Evidence from the Welfare Reform Experiments," _Russell Sage Foundation Research Award_, with Hilary Hoynes (PI) and Jordan Matsudaira (co-PI), $129,677, 2017-2019
-* co-PI, "Experimental Evidence on the Long-Run and Intergenerational Impacts of Welfare Reform," _Cornell University Center for the Study of Inequality Faculty Research Grant_, with Jordan Matsudaira (PI) and Pauline Leung (co-PI), $60,777, 2017-2018
+* Co-PI, "The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Long-Term Evidence from the Welfare Reform Experiments," _Russell Sage Foundation Research Award_, with Hilary Hoynes (PI) and Jordan Matsudaira (co-PI), $129,677, 2017-2019
+* Co-PI, "Experimental Evidence on the Long-Run and Intergenerational Impacts of Welfare Reform," _Cornell University Center for the Study of Inequality Faculty Research Grant_, with Jordan Matsudaira (PI) and Pauline Leung (co-PI), $60,777, 2017-2018
 * [Albert Rees Dissertation Prize](https://irs.princeton.edu/albert-rees-prize-outstanding-princeton-phd){:target="_blank"}, Princeton University, 2017
 * PI, "Further Education during Unemployment," _Cornell University Institute of Social Sciences Small Grant_, with Pauline Leung (PI), $7,500, 2017-2019
 * Theodore and Jane Norman Award, Brandeis University, 2013-2014
