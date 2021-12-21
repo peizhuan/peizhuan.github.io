@@ -16,10 +16,11 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 
 <h2>Current Positions</h2>
 * Assistant Professor, Department of Economics and Jeb E. Brooks School of Public Policy, Cornell University, July 2021-Present
-* Research Affiliate, IZA, 2016-Present
+* Research Fellow, IZA, 2021-Present
 
 <h2>Other Positions</h2>
 * Assistant Professor, Department of Policy Analysis and Management, College of Human Ecology, Cornell University, 2015-2021
+* Research Affiliate, IZA, 2016-2021
 * Visiting Assistant Professor, Department of Economics, Princeton University, 2019-2020
 * Assistant Professor of Economics, Brandeis University, 2013-2015
 * Postdoc Economist, W.E. Upjohn Institute for Employment Research, 2012-2013
@@ -29,14 +30,14 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * Carleton College, B.A. in Mathematics (with Distinction), _summa cum laude_, 2006
 
 <h2>Grants, Honors and Awards</h2>
-* William T. Grant Foundation (PI), with Hilary Hoynes (co-PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $544,312, 2021-2024
-* Laura and John Arnold Foundation (co-PI), with Hilary Hoynes (PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $348,605, 2020-2023
-* Institute of Social Sciences Small Grant (PI), with Christina Korting (co-PI) and Yi Shen (co-PI), Cornell University, $10,000, 2019-2021
+* PI, "Effects of Work and Financial Assistance Policies on Child Outcomes: Long-Term Evidence from Welfare Reform Experiments," _William T. Grant Foundation_, with Hilary Hoynes (co-PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $544,312, 2021-2024
+* co-PI, "The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments," _Laura and John Arnold Foundation_, with Hilary Hoynes (PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $348,605, 2020-2023
+* PI, "Graphical Presentation in Regression Discontinuity Designs," _Cornell University Institute of Social Sciences Small Grant_, with Christina Korting (co-PI) and Yi Shen (co-PI), $10,000, 2019-2021
 * [Institute of Social Sciences Faculty Fellow](http://socialsciences.cornell.edu/fellows/){:target="_blank"}, Cornell University, 2018-2019
-* Russell Sage Foundation Research Award (co-PI), with Hilary Hoynes (PI) and Jordan Matsudaira (co-PI), $129,677, 2017-2019
-* Center for the Study of Inequality Faculty Research Grant (co-PI), with Jordan Matsudaira (PI) and Pauline Leung (co-PI), Cornell University, $60,777, 2017-2018
+* co-PI, "The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Long-Term Evidence from the Welfare Reform Experiments," _Russell Sage Foundation Research Award_, with Hilary Hoynes (PI) and Jordan Matsudaira (co-PI), $129,677, 2017-2019
+* co-PI, "Experimental Evidence on the Long-Run and Intergenerational Impacts of Welfare Reform," _Cornell University Center for the Study of Inequality Faculty Research Grant_, with Jordan Matsudaira (PI) and Pauline Leung (co-PI), $60,777, 2017-2018
 * [Albert Rees Dissertation Prize](https://irs.princeton.edu/albert-rees-prize-outstanding-princeton-phd){:target="_blank"}, Princeton University, 2017
-* Institute of Social Sciences Small Grant (PI), with Pauline Leung (PI), Cornell University, $7,500, 2017-2019
+* PI, "Further Education during Unemployment," _Cornell University Institute of Social Sciences Small Grant_, with Pauline Leung (PI), $7,500, 2017-2019
 * Theodore and Jane Norman Award, Brandeis University, 2013-2014
 * Richard A. Lester Fellowship for Industrial Relations, Princeton University, 2009-2010
 
@@ -48,7 +49,7 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * 2017: Jinan University IESR Labor Conference, EALE meeting, University of Zurich, Duke University, CUFE CHLR International Symposium, CMStatistics Conference
 * 2016: University at Buffalo, Cornell University, Advances in Econometrics Conference (U Michigan), Central University of Finance and Economics, Tsinghua University, Hanyang University, Econometric Society China Meeting, Sichuan University, Cornell-Penn State Econometrics/IO Conference
 * 2015: Cornell University, SOLE/EALE meeting, Econometric Society World Congress
-* 2014: University of Michigan, George Washington University
+* 2014: University of Michigan, Brandeis University, George Washington University
 * 2013: SOLE Meeting, Econometric Society North American Summer Meeting
 * 2012: APPAM Research Conference, Brandeis University, Brigham Young University, Brown University, Mathematica Policy Research, Queen's University School of Policy Studies (Canada), Swarthmore College, University of Illinois at Chicago, University of Illinois at Urbana-Champaign, Western Michigan University
 * 2011: Princeton University, Upjohn Institute for Employment Research
