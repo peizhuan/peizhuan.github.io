@@ -12,7 +12,6 @@ author_profile: true
 [Further Education during Unemployment](https://peizhuan.github.io/papers/opportunity_may_2020_wp.pdf){:target="_blank"}, with Pauline Leung, Princeton University Industrial Relations Section Working Paper #642.<br>
 
 Disability Insurance Income Saves Lives, (new version coming soon), with Alexander Gelber, Timothy Moore, and Alexander Strand.<br>
-<br>
 
 <h2>Work in Progress</h2>
 The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments, with Amanda Eng, Hilary Hoynes, Pauline Leung, Jordan Matsudaira, Cynthia Miller, and Mark van Dok.<br>
