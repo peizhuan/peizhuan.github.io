@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated October 28, 2021)<br>
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated December 30, 2021)<br>
 <br>
 
 Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"})
