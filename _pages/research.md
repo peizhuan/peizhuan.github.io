@@ -10,6 +10,8 @@ author_profile: true
 [Visual Inference and Graphical Representation in Regression Discontinuity Designs](https://arxiv.org/pdf/2112.03096.pdf){:target="_blank"}, with Christina Korting, Carl Lieberman, Jordan Matsudaira, and Yi Shen, arXiv:2112.03096. Previous version: [Princeton University Industrial Relations Section Working Paper #638](https://peizhuan.github.io/papers/rd_graph-2020-02-25_WP.pdf){:target="_blank"}.<br>
 
 [Further Education during Unemployment](https://peizhuan.github.io/papers/opportunity_may_2020_wp.pdf){:target="_blank"}, with Pauline Leung, Princeton University Industrial Relations Section Working Paper #642.<br>
+
+Disability Insurance Income Saves Lives, (new version coming soon), with Alexander Gelber, Timothy Moore, and Alexander Strand.<br>
 <br>
 
 <h2>Work in Progress</h2>
@@ -18,7 +20,7 @@ The Effects of Employment Incentives and Cash Transfers on Parent and Child Outc
 
 Local Polynomial Order in Regression Discontinuity Designs, (open access [here](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1920961){:target="_blank"}), with David S. Lee, David Card, and Andrea Weber, ___Journal of Business and Economic Statistics___, forthcoming. Previous versions: [NBER Working Paper #27424 (2020)](https://peizhuan.github.io/papers/local_poly_order_nber_27424.pdf){:target="_blank"}, [Princeton University Industrial Relations Section Working Paper #622 (2018)](https://peizhuan.github.io/papers/local_poly_order_irsection_622.pdf){:target="_blank"} and [Brandeis Economics Department Working Paper #81 (2014)](https://peizhuan.github.io/papers/local_poly_order-10-21-14-web.pdf){:target="_blank"}.<br>
 <br>
-Are Sufficient Statistics Necessary? Nonparametric Measurement of Deadweight Loss in Unemployment Insurance, with David S. Lee, Pauline Leung, Chris O'Leary, and Simon Quach, ___Journal of Labor Economics___, 39(S2), S455-S506, April 2021. Working paper version: [NBER Working Paper #25574](https://peizhuan.github.io/papers/sufficient_stats_nber_25574-updated.pdf){:target="_blank"}<br>
+Are Sufficient Statistics Necessary? Nonparametric Measurement of Deadweight Loss in Unemployment Insurance, with David S. Lee, Pauline Leung, Christopher J. O'Leary, and Simon Quach, ___Journal of Labor Economics___, 39(S2), S455-S506, April 2021. Working paper version: [NBER Working Paper #25574](https://peizhuan.github.io/papers/sufficient_stats_nber_25574-updated.pdf){:target="_blank"}<br>
 <br>
 Poorly Measured Confounders are More Useful on the Left Than on the Right, (open access [here](https://www.tandfonline.com/doi/full/10.1080/07350015.2018.1462710){:target="_blank"}), with Jörn-Steffen Pischke, and Hannes Schwandt, ___Journal of Business and Economic Statistics___, 37(2), 205-216, April 2019. Working paper version: [NBER Working Paper #23232](https://peizhuan.github.io/papers/Pei_Pischke_Schwandt_Confounders_Mar_2017_NBER.pdf){:target="_blank"}.<br>
 <br>
@@ -30,7 +32,7 @@ Eligibility Recertification and Dynamic Opting-in Incentives in Income-tested So
 <br>
 Inference on Causal Effects in a Generalized Regression Kink Design, with David Card, David S. Lee, and Andrea Weber, ___Econometrica___, 83(6): 2453-2483, November 2015. Working paper version: [Upjohn Institute Working Paper 15-218 (2015)](https://peizhuan.github.io/papers/rkd_upjohn_2015.pdf){:target="_blank"} and [IZA Discussion Paper #8757 (2015)](https://peizhuan.github.io/papers/rkd-iza-disucsion-paper8757_2015.pdf){:target="_blank"}. Previous versions: Nonlinear Policy Rules and the Identification and Estimation of Causal Effects in a Generalized Regression Kink Design, [NBER Working Paper #18564 (2012)](https://peizhuan.github.io/papers/rkd-nber.pdf){:target="_blank"}; Quasi-Experimental Identification and Estimation in the Regression Kink Design, [Princeton University Industrial Relations Section Working Paper #553 (2009)](https://peizhuan.github.io/papers/rkd_irsection_553.pdf){:target="_blank"}.<br>
 <br>
-The Effect of Unemployment Benefits on the Duration of Unemployment Insurance Receipt: New Evidence from a Regression Kink Design in Missouri, 2013-2013, with David Card, Andrew Johnston, Pauline Leung, and Alex Mas, ___American Economic Review: Papers & Proceedings___, 105(5): 126-130, May 2015. Working paper version: [NBER Working Paper #20869](https://peizhuan.github.io/papers/mo-rkd_nber_20869.pdf){:target="_blank"}.<br>
+The Effect of Unemployment Benefits on the Duration of Unemployment Insurance Receipt: New Evidence from a Regression Kink Design in Missouri, 2013-2013, with David Card, Andrew Johnston, Pauline Leung, and Alexandre Mas, ___American Economic Review: Papers & Proceedings___, 105(5): 126-130, May 2015. Working paper version: [NBER Working Paper #20869](https://peizhuan.github.io/papers/mo-rkd_nber_20869.pdf){:target="_blank"}.<br>
 <br>
 Arecibo Multi-Epoch HI Absorption Measurements Against Pulsars: Tiny-Scale Atomic Structure, with S. Stanimirović, J. M. Weisberg, K. Tuttle, and J. T. Green, ___Astrophysical Journal___, 720:415-434, September 2010.<br>
 <br>
