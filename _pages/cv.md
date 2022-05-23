@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated December 30, 2021)<br>
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated May 23, 2022)<br>
 <br>
 
 Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"})
@@ -55,13 +55,14 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * 2011: Princeton University, Upjohn Institute for Employment Research
 
 <h2>Refereeing</h2>
-<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Business and Economic Statistics, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Labour Economics, Oxford Bulletin of Economics and Statistics, PNAS, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
+<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Labour Economics, Oxford Bulletin of Economics and Statistics, PNAS, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
 
 <h2>University Services</h2>
-* Member of Economics Ph.D. admissions committee, Cornell University, 2017-2019, 2021
+* Member of PAM Ph.D. admissions committee, Cornell University, 2022
+* Member of Economics Ph.D. admissions committee, Cornell University, 2017-2019, 2021-2022
+* Member of faculty recruiting committee, Cornell University, 2015, 2022
 * Member of Economics Ph.D. placement committee, Cornell University, 2020-2021
 * Co-organizer of method mini-course, Cornell University, 2016-2020
 * Co-organizer of PAM seminar series, Cornell University, 2017-2019
-* Member of faculty recruiting committee, Cornell University, 2015
 * Co-organizer of economics seminar series, Brandeis University, 2014-2015
 * Social co-chair (2007-08) and Treasurer (2008-09), Graduate Economics Club, Princeton University
