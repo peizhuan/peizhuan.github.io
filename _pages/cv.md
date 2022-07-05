@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated May 23, 2022)<br>
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated July 4, 2022)<br>
 <br>
 
 Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"})
@@ -16,6 +16,7 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 
 <h2>Current Positions</h2>
 * Assistant Professor, Department of Economics and Jeb E. Brooks School of Public Policy, Cornell University, July 2021-Present
+* Executive Director, Cornell FSRDC, Cornell University Center for Social Sciences, July 2022-Present
 * Research Fellow, IZA, 2021-Present
 
 <h2>Other Positions</h2>
@@ -42,7 +43,7 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * Richard A. Lester Fellowship for Industrial Relations, Princeton University, 2009-2010
 
 <h2>Seminar/Conference Presentations</h2>
-* 2021: SWUFE, SOLE, IAAE, Cornell-Penn State Econometrics/IO Conference, AASLE (scheduled)
+* 2021: SWUFE, SOLE, IAAE, Cornell-Penn State Econometrics/IO Conference, AASLE
 * 2020: Jinan IESR, [Online Causal Inference Seminar](https://sites.google.com/view/ocis/){:target="_blank"} (invited discussant; seminar video recording [here](https://www.youtube.com/watch?v=M30Mw4MYLWM){:target="_blank"}, and discussion starts [here](https://youtu.be/M30Mw4MYLWM?t=2942){:target="_blank"}), APPAM
 * 2019: Cornell University, UC Irvine, Econometric Society Asia/China/European Meetings, IZA/SOLE Transatlantic Conference, NBER Summer Institute, Princeton University QSS Colloquium, APPAM, Princeton Labor-Econometrics Seminar, AASLE
 * 2018: CIRANO-CIREQ Applied Economics Conference, UC Davis, IZA Workshop: Economics of Education, APPAM, NTA conference, Central European University, Northwestern University
@@ -55,7 +56,7 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * 2011: Princeton University, Upjohn Institute for Employment Research
 
 <h2>Refereeing</h2>
-<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Labour Economics, Oxford Bulletin of Economics and Statistics, PNAS, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
+<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, American Economic Review: Insights, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Labour Economics, Oxford Bulletin of Economics and Statistics, PNAS, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
 
 <h2>University Services</h2>
 * Member of PAM Ph.D. admissions committee, Cornell University, 2022
