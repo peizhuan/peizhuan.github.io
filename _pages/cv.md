@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated July 4, 2022)<br>
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated August 23, 2022)<br>
 <br>
 
 Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"})
@@ -43,6 +43,8 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * Richard A. Lester Fellowship for Industrial Relations, Princeton University, 2009-2010
 
 <h2>Seminar/Conference Presentations</h2>
+* 2023: ASSA (scheduled)
+* 2022: Syracuse University (scheduled)
 * 2021: SWUFE, SOLE, IAAE, Cornell-Penn State Econometrics/IO Conference, AASLE
 * 2020: Jinan IESR, [Online Causal Inference Seminar](https://sites.google.com/view/ocis/){:target="_blank"} (invited discussant; seminar video recording [here](https://www.youtube.com/watch?v=M30Mw4MYLWM){:target="_blank"}, and discussion starts [here](https://youtu.be/M30Mw4MYLWM?t=2942){:target="_blank"}), APPAM
 * 2019: Cornell University, UC Irvine, Econometric Society Asia/China/European Meetings, IZA/SOLE Transatlantic Conference, NBER Summer Institute, Princeton University QSS Colloquium, APPAM, Princeton Labor-Econometrics Seminar, AASLE
@@ -56,9 +58,12 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * 2011: Princeton University, Upjohn Institute for Employment Research
 
 <h2>Refereeing</h2>
-<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, American Economic Review: Insights, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Labour Economics, Oxford Bulletin of Economics and Statistics, PNAS, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
+<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, American Economic Review: Insights, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Applied Econometrics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Labour Economics, Oxford Bulletin of Economics and Statistics, PNAS, Quarterly Journal of Economics, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
 
 <h2>University Services</h2>
+* Member of Dyson MS/PhD curriculum review committee, Cornell University, 2022-23
+* Member of Economics recruiting committee, Cornell University, 2022-23
+* Member of Brooks lecturer recruiting committee, Cornell University, 2022
 * Member of PAM Ph.D. admissions committee, Cornell University, 2022
 * Member of Economics Ph.D. admissions committee, Cornell University, 2017-2019, 2021-2022
 * Member of faculty recruiting committee, Cornell University, 2015, 2022
