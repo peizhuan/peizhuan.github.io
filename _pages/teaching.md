@@ -12,15 +12,13 @@ author_profile: true
 * _Empirical Strategies for Policy Research II_ (Ph.D.), 2015, 2017-2019, 2021-2022.
 * _Honors Thesis Advising_ (undergraduate), 2017-2019.
 
+<h2>Princeton University</h2>
+* Instructor, _Junior Independent Work_, 2019-2020.
+* Teaching assistant, _Junior Independent Work_, 2011-2012, 2008-2009.
+* Teaching assistant, _Econometrics: A Mathematical Approach_, 2010.
+* Teaching assistant, _Law and Economics_, 2008.
+
 <h2>Brandeis University</h2>
 * _Econometrics_ (undergraduate), 2013-2014.
 * _Advanced Econometrics I_ (Ph.D.), 2015.
 * _Honors Thesis Advising_ (undergraduate), 2013-2015.
-
-<h2>Princeton University</h2>
-* Instructor, _Junior Independent Work_, 2019-2020.
-* Assistant Instructor, _Junior Independent Work_, Professor Alex Mas and Professor Andrew Shephard, 2011-2012.
-* Assistant Instructor, _Econometrics: A Mathematical Approach_, Professor Andriy Norets, 2010.
-* Assistant Instructor, _Junior Independent Work_, Professor Alex Mas, 2008-2009. 
-* Assistant Instructor, _Law and Economics_, Professor Thomas Leonard, 2008.
-* Economics/Statistics Tutor, _Woodrow Wilson School Junior Summer Institute_, 2008-2009.
