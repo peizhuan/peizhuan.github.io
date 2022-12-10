@@ -11,11 +11,11 @@ author_profile: true
 
 [Further Education during Unemployment](https://peizhuan.github.io/papers/opportunity_may_2020_wp.pdf){:target="_blank"}, with Pauline Leung, Princeton University Industrial Relations Section Working Paper #642.<br>
 
-[Disability Insurance Income Saves Lives](https://peizhuan.github.io/papers/rkd_di_resub.pdf){:target="_blank"}, with Alexander Gelber, Timothy Moore, and Alexander Strand.<br>
-
 <h2>Work in Progress</h2>
 The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments, with Amanda Eng, Hilary Hoynes, Pauline Leung, Jordan Matsudaira, Cynthia Miller, and Mark van Dok.<br>
-<h2>Publications</h2>
+<h2>Publications (Including Accepted)</h2>
+
+[Disability Insurance Income Saves Lives](https://peizhuan.github.io/papers/rkd_di_resub.pdf){:target="_blank"}, with Alexander Gelber, Timothy Moore, and Alexander Strand, accepted, ___Journal of Political Economy___<br>
 
 Local Polynomial Order in Regression Discontinuity Designs, (open access [here](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1920961){:target="_blank"}), with David S. Lee, David Card, and Andrea Weber, ___Journal of Business and Economic Statistics___, 40(3), 1259-1267, June 2022. Previous versions: [NBER Working Paper #27424 (2020)](https://peizhuan.github.io/papers/local_poly_order_nber_27424.pdf){:target="_blank"}, [Princeton University Industrial Relations Section Working Paper #622 (2018)](https://peizhuan.github.io/papers/local_poly_order_irsection_622.pdf){:target="_blank"} and [Brandeis Economics Department Working Paper #81 (2014)](https://peizhuan.github.io/papers/local_poly_order-10-21-14-web.pdf){:target="_blank"}.<br>
 <br>
