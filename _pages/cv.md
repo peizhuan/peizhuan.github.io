@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated December 9, 2022)<br>
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated January 1, 2023)<br>
 <br>
 
 Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"})
@@ -68,7 +68,6 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * Member of Economics Ph.D. placement committee, Cornell University, 2020, 2022
 * Member of Dyson MS/PhD curriculum review committee, Cornell University, 2022-23
 * Member of Economics recruiting committee, Cornell University, 2022-23
-* Member of Brooks lecturer recruiting committee, Cornell University, 2022
 * Member of PAM Ph.D. admissions committee, Cornell University, 2022
 * Member of Economics Ph.D. admissions committee, Cornell University, 2017-2019, 2021-2022
 * Member of faculty recruiting committee, Cornell University, 2015, 2022
