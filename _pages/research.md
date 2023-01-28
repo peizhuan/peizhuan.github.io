@@ -9,13 +9,13 @@ author_profile: true
 
 [Supercompliers](https://arxiv.org/pdf/2212.14105.pdf){:target="_blank"}, with Matthew Comey and Amanda Eng, arXiv:2212.14105.
 
-[Visual Inference and Graphical Representation in Regression Discontinuity Designs](https://arxiv.org/pdf/2112.03096.pdf){:target="_blank"}, with Christina Korting, Carl Lieberman, Jordan Matsudaira, and Yi Shen, arXiv:2112.03096. Previous version: [Princeton University Industrial Relations Section Working Paper #638](https://peizhuan.github.io/papers/rd_graph-2020-02-25_WP.pdf){:target="_blank"}.<br>
-
 [Further Education during Unemployment](https://peizhuan.github.io/papers/opportunity_may_2020_wp.pdf){:target="_blank"}, with Pauline Leung, Princeton University Industrial Relations Section Working Paper #642.<br>
 
 <h2>Work in Progress</h2>
 The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments, with Amanda Eng, Hilary Hoynes, Pauline Leung, Jordan Matsudaira, Cynthia Miller, and Mark van Dok.<br>
 <h2>Publications (Including Accepted)</h2>
+
+[Visual Inference and Graphical Representation in Regression Discontinuity Designs](https://peizhuan.github.io/papers/rd_graph-2023-01-27.pdf){:target="_blank"}, with Christina Korting, Carl Lieberman, Jordan Matsudaira, and Yi Shen, accepted, ___Quarterly Journal of Economics___. Previous version: [IZA Discussion Paper #14923](https://peizhuan.github.io/papers/rd_graph_iza_14923.pdf){:target="_blank"} (2021); [Princeton University Industrial Relations Section Working Paper #638](https://peizhuan.github.io/papers/rd_graph-2020-02-25_WP.pdf){:target="_blank"} (2020).<br>
 
 [Disability Insurance Income Saves Lives](https://peizhuan.github.io/papers/rkd_di_resub.pdf){:target="_blank"}, with Alexander Gelber, Timothy Moore, and Alexander Strand, accepted, ___Journal of Political Economy___<br>
 
