@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated January 27, 2023)<br>
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated January 30, 2023)<br>
 <br>
 
 Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"})
@@ -60,11 +60,10 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * 2011: Princeton University, Upjohn Institute for Employment Research
 
 <h2>Peer Review</h2>
-<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, American Economic Review: Insights, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Applied Econometrics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Labour Economics, NSF, Oxford Bulletin of Economics and Statistics, PNAS, Quarterly Journal of Economics, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
+<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, American Economic Review: Insights, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Applied Econometrics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Labour Economics, National Science Foundation, Oxford Bulletin of Economics and Statistics, Proceedings of the National Academy of Sciences, Quarterly Journal of Economics, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
 
 <h2>Service</h2>
 * Member of executive committee, NYRDC, 2022-present
-* Member of advisory committee, Zeidman Program in Chinese Studies, Sidwell Friends School, 2022-present
 * Member of Economics Ph.D. placement committee, Cornell University, 2020, 2022
 * Member of Dyson MS/PhD curriculum review committee, Cornell University, 2022-23
 * Member of Economics recruiting committee, Cornell University, 2022-23
