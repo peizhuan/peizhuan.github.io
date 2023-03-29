@@ -11,7 +11,7 @@ author_profile: true
 
 `rdmse`: This Stata package estimates the (asymptotic) mean squared error of a conventional/bias-corrected local polynomial regression discontinuity/kink estimator for given bandwidths and polynomial orders. It builds on the 2014 version of the Stata command `rdrobust` by Sebastian Calonico, Matias Cattaneo and Rocío Titiunik. To install, type in Stata
 
-`ssc install rdmse`
+`ssc install rdmse, replace`
 
 or
 
