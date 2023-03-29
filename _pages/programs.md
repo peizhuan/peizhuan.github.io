@@ -7,13 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-<h3>"Local Polynomial Order in Regression Discontinuity Designs": Pei, Lee, Card, Weber (forthcoming)</h3>
+<h3>"Local Polynomial Order in Regression Discontinuity Designs": Pei, Lee, Card, Weber (2022)</h3>
 
 `rdmse`: This Stata package estimates the (asymptotic) mean squared error of a conventional/bias-corrected local polynomial regression discontinuity/kink estimator for given bandwidths and polynomial orders. It builds on the 2014 version of the Stata command `rdrobust` by Sebastian Calonico, Matias Cattaneo and Rocío Titiunik. To install, type in Stata
 
+`ssc install rdmse`
+
+or
+
 `net install rdmse, from(https://raw.githubusercontent.com/peizhuan/rdmse/master) replace`
 
-The PDF of the help file is [here](https://peizhuan.github.io/program_files/rdmse help PDF.pdf){:target="_blank"}, or you can type `help rdmse` after installation.<br>
+The PDF of the help file is [here](https://peizhuan.github.io/program_files/rdmse%20help%20PDF.pdf){:target="_blank"}, or you can type `help rdmse` after installation.<br>
 
 The replication files are [here](https://www.tandfonline.com/doi/suppl/10.1080/07350015.2021.1920961){:target="_blank"}. 
 <br>
