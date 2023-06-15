@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated March 29, 2023)<br>
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated June 15, 2023)<br>
 <br>
 
 Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"})
@@ -32,8 +32,8 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * Carleton College, B.A. in Mathematics (with Distinction), _summa cum laude_, 2006
 
 <h2>Grants, Honors and Awards</h2>
-* Jain Family Institute - Brooks School Faculty Fellow, 2023-2024
-* PI, "Effects of Work and Financial Assistance Policies on Child Outcomes: Long-Term Evidence from Welfare Reform Experiments," _William T. Grant Foundation_, with Hilary Hoynes (co-PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $544,312, 2021-2024
+* [Jain Family Institute - Brooks School Senior Fellow](https://jainfamilyinstitute.org/our-team/zhuan-pei/){:target="_blank"}, 2023-2024
+* PI, "[Effects of Work and Financial Assistance Policies on Child Outcomes: Long-Term Evidence from Welfare Reform Experiments](https://wtgrantfoundation.org/browse-grants#/grant/191417){:target="_blank"}," _William T. Grant Foundation_, with Hilary Hoynes (co-PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $544,312, 2021-2024
 * Co-PI, "The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments," _Laura and John Arnold Foundation_, with Hilary Hoynes (PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $348,605, 2020-2023
 * PI, "Graphical Presentation in Regression Discontinuity Designs," _Cornell University Institute of Social Sciences Small Grant_, with Christina Korting (co-PI) and Yi Shen (co-PI), $10,000, 2019-2021
 * [Institute of Social Sciences Faculty Fellow](http://socialsciences.cornell.edu/fellows/){:target="_blank"}, Cornell University, 2018-2019
@@ -45,7 +45,7 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * Richard A. Lester Fellowship for Industrial Relations, Princeton University, 2009-2010
 
 <h2>Seminar/Conference Presentations</h2>
-* 2023: ASSA, Brown University, Princeton IR Section Centennial Conference (scheduled)
+* 2023: ASSA, Brown University, Princeton University Industrial Relations Section Centennial Symposium
 * 2022: Syracuse University
 * 2021: SWUFE, SOLE, IAAE, Cornell-Penn State Econometrics/IO Conference, AASLE
 * 2020: Jinan IESR, [Online Causal Inference Seminar](https://sites.google.com/view/ocis/){:target="_blank"} (invited discussant; seminar video recording [here](https://www.youtube.com/watch?v=M30Mw4MYLWM){:target="_blank"}, and discussion starts [here](https://youtu.be/M30Mw4MYLWM?t=2942){:target="_blank"}), APPAM
@@ -60,7 +60,7 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * 2011: Princeton University, Upjohn Institute for Employment Research
 
 <h2>Peer Review</h2>
-<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, American Economic Review: Insights, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Applied Econometrics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of the European Economic Association, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Labour Economics, National Science Foundation, Oxford Bulletin of Economics and Statistics, Proceedings of the National Academy of Sciences, Quarterly Journal of Economics, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
+<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Review, American Economic Review: Insights, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Applied Econometrics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of the European Economic Association, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Journal of the American Statistical Association, Labour Economics, National Science Foundation, Oxford Bulletin of Economics and Statistics, Proceedings of the National Academy of Sciences, Quarterly Journal of Economics, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
 
 <h2>Service</h2>
 * Member of executive committee, NYRDC, 2022-present
