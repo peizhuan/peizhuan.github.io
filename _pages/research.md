@@ -7,17 +7,17 @@ author_profile: true
 
 <h2>Working Papers</h2>
 
-[Supercompliers](https://arxiv.org/pdf/2212.14105.pdf){:target="_blank"}, with Matthew Comey and Amanda Eng, arXiv:2212.14105.
+[Further Education during Unemployment](https://arxiv.org/pdf/2312.17123.pdf){:target="_blank"}, with Pauline Leung, arXiv:2312.17123, December 2023. Previous version: [Princeton University Industrial Relations Section Working Paper #642 (2020)](https://peizhuan.github.io/papers/opportunity_may_2020_wp.pdf){:target="_blank"}.<br>
 
-[Further Education during Unemployment](https://peizhuan.github.io/papers/opportunity_may_2020_wp.pdf){:target="_blank"}, with Pauline Leung, Princeton University Industrial Relations Section Working Paper #642.<br>
+[Supercompliers](https://arxiv.org/pdf/2212.14105.pdf){:target="_blank"}, with Matthew Comey and Amanda Eng, arXiv:2212.14105, August 2023 (first version December 2022).<br>
 
 <h2>Work in Progress</h2>
 The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments, with Amanda Eng, Hilary Hoynes, Pauline Leung, Jordan Matsudaira, Cynthia Miller, and Mark van Dok.<br>
 <h2>Publications (Including Accepted)</h2>
 
-Visual Inference and Graphical Representation in Regression Discontinuity Designs, with Christina Korting, Carl Lieberman, Jordan Matsudaira, and Yi Shen, [accepted](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjad011/7068116){:target="_blank"}, ___Quarterly Journal of Economics___. Working paper versions: [arXiv:2112.03096v2](https://arxiv.org/pdf/2112.03096.pdf){:target="_blank"}, [IZA Discussion Paper #14923](https://peizhuan.github.io/papers/rd_graph_iza_14923.pdf){:target="_blank"} (2021); [Princeton University Industrial Relations Section Working Paper #638](https://peizhuan.github.io/papers/rd_graph-2020-02-25_WP.pdf){:target="_blank"} (2020).<br>
+Disability Insurance Income Saves Lives, with Alexander Gelber, Timothy Moore, and Alexander Strand, ___Journal of Political Economy___, 131(11), 3156-3185, November 2023.<br>
 
-Disability Insurance Income Saves Lives, with Alexander Gelber, Timothy Moore, and Alexander Strand, [accepted](https://www.journals.uchicago.edu/doi/10.1086/725172){:target="_blank"}, ___Journal of Political Economy___<br>
+Visual Inference and Graphical Representation in Regression Discontinuity Designs, with Christina Korting, Carl Lieberman, Jordan Matsudaira, and Yi Shen, ___Quarterly Journal of Economics___, 138(3), 1977-2019, August 2023. Working paper versions: [arXiv:2112.03096v2](https://arxiv.org/pdf/2112.03096.pdf){:target="_blank"}, [IZA Discussion Paper #14923](https://peizhuan.github.io/papers/rd_graph_iza_14923.pdf){:target="_blank"} (2021); [Princeton University Industrial Relations Section Working Paper #638](https://peizhuan.github.io/papers/rd_graph-2020-02-25_WP.pdf){:target="_blank"} (2020).<br>
 
 Local Polynomial Order in Regression Discontinuity Designs, (open access [here](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1920961){:target="_blank"}), with David S. Lee, David Card, and Andrea Weber, ___Journal of Business and Economic Statistics___, 40(3), 1259-1267, June 2022. Previous versions: [NBER Working Paper #27424 (2020)](https://peizhuan.github.io/papers/local_poly_order_nber_27424.pdf){:target="_blank"}, [Princeton University Industrial Relations Section Working Paper #622 (2018)](https://peizhuan.github.io/papers/local_poly_order_irsection_622.pdf){:target="_blank"} and [Brandeis Economics Department Working Paper #81 (2014)](https://peizhuan.github.io/papers/local_poly_order-10-21-14-web.pdf){:target="_blank"}.<br>
 <br>
