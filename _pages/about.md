@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am a tenured Associate professor in the Department of Economics and the Jeb E. Brooks School of Public Policy at Cornell University. My research interests are in Labor Economics, Applied Microeconometrics, and Public Policy.
+I am a tenured associate professor in the Department of Economics and the Jeb E. Brooks School of Public Policy at Cornell University. My research interests are in Labor Economics, Applied Microeconometrics, and Public Policy.
 <br>
 <br>
 
