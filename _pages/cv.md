@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated December 28, 2023)<br>
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated January 23, 2023)<br>
 <br>
 
 Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"})
 ======
 
 <h2>Current Positions</h2>
-* Associate Professor, Department of Economics and Jeb E. Brooks School of Public Policy, Cornell University, November 2022-Present
+* Associate Professor (with tenure), Department of Economics and Jeb E. Brooks School of Public Policy, Cornell University, November 2022-Present
 * Executive Director, Cornell FSRDC, Cornell University Center for Social Sciences, July 2022-Present
 * Research Fellow, IZA, 2021-Present
 
