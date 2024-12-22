@@ -32,8 +32,8 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * Carleton College, B.A. in Mathematics (with Distinction), _summa cum laude_, 2006
 
 <h2>Grants, Honors and Awards</h2>
-* [Jain Family Institute - Brooks School Senior Fellow](https://jainfamilyinstitute.org/our-team/zhuan-pei/){:target="_blank"}, 2023-2024
-* PI, "[Effects of Work and Financial Assistance Policies on Child Outcomes: Long-Term Evidence from Welfare Reform Experiments](https://wtgrantfoundation.org/browse-grants#/grant/191417){:target="_blank"}," _William T. Grant Foundation_, with Hilary Hoynes (co-PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $544,312, 2021-2024
+* [Jain Family Institute - Brooks School Senior Fellow](https://jainfamilyinstitute.org/our-team/zhuan-pei/){:target="_blank"}, 2023-2025
+* PI, "[Effects of Work and Financial Assistance Policies on Child Outcomes: Long-Term Evidence from Welfare Reform Experiments](https://wtgrantfoundation.org/browse-grants#/grant/191417){:target="_blank"}," _William T. Grant Foundation_, with Hilary Hoynes (co-PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $544,312, 2021-2025
 * Co-PI, "The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments," _Laura and John Arnold Foundation_, with Hilary Hoynes (PI), Pauline Leung (co-PI), and Jordan Matsudaira (co-PI), $348,605, 2020-2023
 * PI, "Graphical Presentation in Regression Discontinuity Designs," _Cornell University Institute of Social Sciences Small Grant_, with Christina Korting (co-PI) and Yi Shen (co-PI), $10,000, 2019-2021
 * [Institute of Social Sciences Faculty Fellow](http://socialsciences.cornell.edu/fellows/){:target="_blank"}, Cornell University, 2018-2019
