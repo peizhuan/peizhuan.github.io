@@ -5,6 +5,7 @@ permalink: /conferences/fsrdc-conference-2025/
 author_profile: true
 ---
 
+
 **Date:** Thursday-Friday, September 25-26, 2025 
 
 **Conference Location:** Robert Purcell Community Center, Cornell University, Ithaca, NY 
