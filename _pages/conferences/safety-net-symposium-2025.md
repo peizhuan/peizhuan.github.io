@@ -4,7 +4,7 @@ title: "Symposium on the Frontiers in the Studies of Anti-Poverty Programs"
 date: 2025-10-10
 venue: "Cornell University"
 location: "Ithaca, NY"
-permalink: /safety-net-symposium-2025/
+permalink: /conferences/safety-net-symposium-2025/
 ---
 
 # Symposium on the Frontiers in the Studies of Anti-Poverty Programs: Evidence on Improving Youth Outcomes and Reducing Inequality

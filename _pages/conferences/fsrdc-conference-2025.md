@@ -4,7 +4,7 @@ title: "2025 FSRDC Annual Conference"
 date: 2025-09-26
 venue: "Cornell University"
 location: "Ithaca, NY"
-permalink: /fsrdc-conference-2025/
+permalink: /conferences/fsrdc-conference-2025/
 ---
 
 # 2025 FSRDC Annual Conference 
