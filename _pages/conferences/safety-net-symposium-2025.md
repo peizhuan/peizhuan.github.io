@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Symposium on the Frontiers in the Studies of Anti-Poverty Programs: Evidence on Improving Youth Outcomes and Reducing Inequality"
+title: "Frontiers in the Studies of Anti-Poverty Programs: Evidence on Improving Youth Outcomes and Reducing Inequality"
 permalink: /conferences/safety-net-symposium-2025/
 author_profile: true
 ---
