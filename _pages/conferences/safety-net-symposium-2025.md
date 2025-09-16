@@ -20,18 +20,18 @@ This day-long symposium features new research on anti-poverty programs, particul
 
 ## Program
 
-[**Full Program (PDF)**](https://peizhuan.github.io/conference_files/2025_safety_net_symposium_program.pdf) 
+[**Full Program (PDF)**](https://peizhuan.github.io/conference_files/2025_safety_net_symposium_program.pdf){:target="_blank"}
 
 ## Transportation for Outside Attendees
 
 ### Shuttle Service
-Complimentary shuttle service will be provided:
-- **Morning pickup:** 8:15 AM at Canopy Hilton
-- **Evening return:** 5:00 PM from Clark Hall to Canopy Ithaca
+Complimentary shuttle service will be provided between the hotel and the conference venue:
+- **Morning pickup:** 8:15 AM at [Canopy Hilton](https://www.hilton.com/en/hotels/ithsspy-canopy-ithaca-downtown/){:target="_blank"}
+- **Evening return:** 5:00 PM from Clark Hall to [Canopy Hilton](https://www.hilton.com/en/hotels/ithsspy-canopy-ithaca-downtown/){:target="_blank"}
 
 ### Alternative Options
 If you miss the shuttle, you can take the **TCAT No. 30 bus** which provides regular service to Cornell campus. 
-- [TCAT Route 30 Schedule](https://tcatbus.com/wp-content/uploads/30-30W_Fall25.pdf)
+- [TCAT Route 30 Schedule](https://tcatbus.com/wp-content/uploads/30-30W_Fall25.pdf){:target="_blank"}
 - The bus stop nearest to Clark Hall is the "Rockefeller Hall" stop
 - Please check the current schedule as times may vary
 
@@ -43,4 +43,4 @@ For logistical questions about the symposium, please contact our wonderful event
 
 ---
 
-*Last updated: September 15, 2025*
+*Last updated: September 16, 2025*
