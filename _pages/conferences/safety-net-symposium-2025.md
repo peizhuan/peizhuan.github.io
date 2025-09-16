@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 **Date:** Friday, October 10, 2025  
+
 **Conference Location:** 700 Clark Hall, Cornell University, Ithaca, NY   
+
 **Co-Organizers:** Pauline Leung and Zhuan Pei  
+
 **Sponsors:** Brooks School of Public Policy; Jain Family Institute; William T. Grant Foundation
 
 ## About the Symposium

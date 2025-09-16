@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 **Date:** Thursday-Friday, September 25-26, 2025 
+
 **Conference Location:** Robert Purcell Community Center, Cornell University, Ithaca, NY 
+
 **Co-Organizers:**  Zhuan Pei and Nichole Szembrot 
+
 **Sponsors:** Cornell Center for Social Sciences; Cornell Economics Department; Cornell Brooks School of Public Policy 
 
 ## About the Conference
