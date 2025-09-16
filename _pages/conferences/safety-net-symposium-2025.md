@@ -1,22 +1,18 @@
 ---
 layout: single
-title: "Symposium on the Frontiers in the Studies of Anti-Poverty Programs"
-date: 2025-10-10
-venue: "Cornell University"
-location: "Ithaca, NY"
+title: "Symposium on the Frontiers in the Studies of Anti-Poverty Programs: Evidence on Improving Youth Outcomes and Reducing Inequality"
 permalink: /conferences/safety-net-symposium-2025/
+author_profile: true
 ---
 
-# Symposium on the Frontiers in the Studies of Anti-Poverty Programs: Evidence on Improving Youth Outcomes and Reducing Inequality
-
 **Date:** Friday, October 10, 2025  
-**Conference Location:** 700 Clark Hall, Cornell University, Ithaca, NY
-**Co-Organizers:** Pauline Leung and Zhuan Pei
+**Conference Location:** 700 Clark Hall, Cornell University, Ithaca, NY   
+**Co-Organizers:** Pauline Leung and Zhuan Pei  
 **Sponsors:** Cornell University Brooks School of Public Policy; Jain Family Institute; William T. Grant Foundation
 
 ## About the Symposium
 
-This day-long symposium features new research on anti-poverty programs, particularly their effects on youth outcomes. This event brings together leading scholars to present and discuss the latest evidence on the (long-term) impacts of various social programs.
+This day-long symposium features new research on anti-poverty programs, particularly their (long-term) effects on youth outcomes.
 
 ## Program
 
@@ -31,9 +27,10 @@ Complimentary shuttle service will be provided:
 
 ### Alternative Options
 If you miss the shuttle, you can take the **TCAT No. 30 bus** which provides regular service to Cornell campus. 
-- [TCAT Route 30 Schedule](https://www.tcatbus.com/ride/routes-schedules/route-30/)
+- [TCAT Route 30 Schedule](https://tcatbus.com/wp-content/uploads/30-30W_Fall25.pdf)
 - The bus stop nearest to Clark Hall is the "Rockefeller Hall" stop
 - Please check the current schedule as times may vary
+
 You may also use ride-sharing apps like Uber or Lyft, though wait time is likely longer in Ithaca than in larger cities.  
 
 ## Contact Information
