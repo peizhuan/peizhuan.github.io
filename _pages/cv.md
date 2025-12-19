@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated December 20, 2024)<br>
+PDF of full C.V. [here](https://peizhuan.github.io/cv_files/CV_ZhuanPei.pdf){:target="_blank"}. (Updated December 19, 2025)<br>
 <br>
 
 Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target="_blank"} and [Teaching](https://peizhuan.github.io/teaching/){:target="_blank"})
@@ -45,7 +45,8 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * Richard A. Lester Fellowship for Industrial Relations, Princeton University, 2009-2010
 
 <h2>Seminar/Conference Presentations</h2>
-* 2025: Binghamton University (scheduled)
+* 2026: ASSA (discussant; scheduled)
+* 2025: Binghamton University, Frontiers in the Studies of Anti-Poverty Programs Symposium (discussant)
 * 2024: Stata Economics Virtual Symposium
 * 2023: ASSA, Brown University, Princeton University Industrial Relations Section Centennial Symposium
 * 2022: Syracuse University
@@ -62,19 +63,23 @@ Abbreviated C.V. (sans [Research](https://peizhuan.github.io/research/){:target=
 * 2011: Princeton University, Upjohn Institute for Employment Research
 
 <h2>Peer Review</h2>
-<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Journal: Economic Policy, American Economic Review, American Economic Review: Insights, American Political Science Review, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Applied Econometrics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of the European Economic Association, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Public Economics, Journal of the American Statistical Association, Labour Economics, National Science Foundation, Oxford Bulletin of Economics and Statistics, Proceedings of the National Academy of Sciences, Quarterly Journal of Economics, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
+<ul><li style="list-style-type: none;">Advances in Econometrics, American Economic Journal: Applied Economics, American Economic Journal: Economic Policy, American Economic Review, American Economic Review: Insights, American Political Science Review, Econometrica, Econometrics Journal, Economic Inquiry, Economic Journal, Empirical Eocnomics, Journal of Applied Econometrics, Journal of Business and Economic Statistics, Journal of Causal Inference, Journal of Cultural Economics, Journal of Econometrics, Journal of Economic Behavior & Organization, Journal of Economic Surveys, Journal of the European Economic Association, Journal of Health Economics, Journal of Human Resources, Journal of Labor Economics, Journal of Policy Analysis and Management, Journal of Political Economy, Journal of Political Economy: Micro, Journal of Public Economics, Journal of the American Statistical Association, Labour Economics, National Science Foundation, Oxford Bulletin of Economics and Statistics, Proceedings of the National Academy of Sciences, Quarterly Journal of Economics, Review of Economic Studies, Review of Economics and Statistics, Southern Economic Journal</li></ul>
 
 <h2>Service</h2>
+* [Conference organizer and program chair](https://socialsciences.cornell.edu/nyrdc/fsrdc/annual-research-conference-cornell-university){:target="_blank"} of [FSRDC 2025 Annual Conference](https://news.cornell.edu/stories/2025/11/cornell-fsrdc-celebrates-20-years-advancing-research){:target="_blank"}, 2024-25
+* Symposium organizer of “[Frontiers in the studies of U.S. anti-poverty programs](https://peizhuan.github.io/conference_files/2025_safety_net_symposium_program.pdf){:target="_blank"}”, 2025
 * Member of Program Committee, SOLE/EALE/AASLE World Labor Conference, 2024-25
+* Member of Economics Ph.D. admissions committee, Cornell University, 2017-19, 21-22, 25
+* Member of Brooks School MSDSPP small working group, Cornell University, 2025
+* Member of Brooks School Ph.D. student award committee, Cornell University, 2025
 * Member of Economics recruiting committee, Cornell University, 2022-23, 24-25
-* Member of Brooks School research review committee, Cornell University, 2024-25
 * Member of executive committee, NYRDC, 2022-present
+* Member of Brooks School research review committee, Cornell University, 2024
 * Member of Dyson MS/PhD curriculum review committee, Cornell University, 2022-23
 * Member of Economics Ph.D. placement committee, Cornell University, 2020, 2022
 * Member of PAM Ph.D. admissions committee, Cornell University, 2022
-* Member of Economics Ph.D. admissions committee, Cornell University, 2017-2019, 2021-2022
 * Member of PAM recruiting committee, Cornell University, 2015
-* Co-organizer of method mini-course, Cornell University, 2016-2020
-* Co-organizer of PAM seminar series, Cornell University, 2017-2019
-* Co-organizer of economics seminar series, Brandeis University, 2014-2015
+* Co-organizer of method mini-course, Cornell University, 2016-20
+* Co-organizer of PAM seminar series, Cornell University, 2017-19
+* Co-organizer of economics seminar series, Brandeis University, 2014-15
 * Social co-chair (2007-08) and Treasurer (2008-09), Graduate Economics Club, Princeton University

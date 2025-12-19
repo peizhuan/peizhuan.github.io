@@ -7,9 +7,9 @@ author_profile: true
 
 <h2>Working Papers</h2>
 
-[Supercompliers](https://arxiv.org/pdf/2212.14105.pdf){:target="_blank"}, with Matthew Comey, Amanda Eng, and Pauline Leung, arXiv:2212.14105, December 2024 (first version December 2022).<br>
+[Further Education During Unemployment](https://arxiv.org/pdf/2312.17123.pdf){:target="_blank"}, with Pauline Leung, arXiv:2312.17123, December 2025. Previous versions: [arXiv:2312.17123v2](https://arxiv.org/pdf/2312.17123v2){:target="_blank"} (2023); [Princeton University Industrial Relations Section Working Paper #642](https://peizhuan.github.io/papers/opportunity_may_2020_wp.pdf){:target="_blank"} (2020).<br>
 
-[Further Education During Unemployment](https://arxiv.org/pdf/2312.17123.pdf){:target="_blank"}, with Pauline Leung, arXiv:2312.17123, December 2023. Previous version: [Princeton University Industrial Relations Section Working Paper #642 (2020)](https://peizhuan.github.io/papers/opportunity_may_2020_wp.pdf){:target="_blank"}.<br>
+[Supercompliers](https://arxiv.org/pdf/2212.14105.pdf){:target="_blank"}, with Matthew Comey, Amanda Eng, and Pauline Leung, arXiv:2212.14105, December 2024 (first version December 2022).<br>
 
 <h2>Work in Progress</h2>
 The Effects of Employment Incentives and Cash Transfers on Parent and Child Outcomes: Evidence from the Long Run Effects of Welfare Reform Experiments, with Amanda Eng, Hilary Hoynes, Pauline Leung, Jordan Matsudaira, Cynthia Miller, and Mark van Dok.<br>
